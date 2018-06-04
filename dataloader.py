@@ -4,6 +4,7 @@ import torchvision
 import torchvision.transforms as transforms
 from torch.utils.data import Dataset
 from skimage import io, transform
+from torch.utils.data.sampler import WeightedRandomSampler
 
 class PaintingDataset(Dataset):
 	def __init__(self, root, train=True, transform=None):
@@ -19,6 +20,10 @@ class PaintingDataset(Dataset):
 			with open(os.path.join(root, 'test.csv')) as f:
 				self.data = [(io.imread("./data/images/" + line.split(',')[0]), int(line.split(',')[1].strip()))
 							 for line in f]
+
+		self.counts = [0] * 10
+		for _, label in self.data:
+			self.counts[label] += 1
 
 	def __len__(self):
 		return len(self.data)
@@ -46,8 +51,12 @@ class PaintingDataLoader():
 		])
 
 		trainset = PaintingDataset(root=root, train=True, transform=transform)
+		weight = []
+		for count in trainset.counts:
+			weight += [1 / count] * count
+		sampler = WeightedRandomSampler(weight, len(weight), replacement=True)
 		self.trainloader = torch.utils.data.DataLoader(trainset, batch_size=batchSize,
-		                                          shuffle=True, num_workers=2)
+		                                          shuffle=False, num_workers=2, sampler=sampler)
 
 		testset = PaintingDataset(root=root, train=False, transform=transform_test)
 		self.testloader = torch.utils.data.DataLoader(testset, batch_size=batchSize,

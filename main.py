@@ -5,7 +5,7 @@ import models
 import torch
 import pdb
 
-EPOCHS = 500
+EPOCHS = 50
 BATCH_SIZE = 128
 
 def train(net, dataloader, optimizer, criterion, epoch):

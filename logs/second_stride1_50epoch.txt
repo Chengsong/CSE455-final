@@ -1,0 +1,1150 @@
+Final Summary:   loss: 2.172
+Train Accuracy of the network: 27 %
+Train Accuracy of Pierre Auguste Renoir : 22 %
+Train Accuracy of Paul Cezanne : 36 %
+Train Accuracy of Katsushika Hokusai : 38 %
+Train Accuracy of Leonardo Da Vinci :  2 %
+Train Accuracy of Claude Monet : 17 %
+Train Accuracy of Vincent Van Gogh : 15 %
+Train Accuracy of Raphael Kirchner : 79 %
+Train Accuracy of Pablo Picasso :  2 %
+Train Accuracy of Rembrandt : 48 %
+Train Accuracy of Andy Warhol :  1 %
+Test Accuracy of the network: 23 %
+Test Accuracy of Pierre Auguste Renoir : 20 %
+Test Accuracy of Paul Cezanne : 42 %
+Test Accuracy of Katsushika Hokusai : 39 %
+Test Accuracy of Leonardo Da Vinci :  2 %
+Test Accuracy of Claude Monet : 16 %
+Test Accuracy of Vincent Van Gogh : 16 %
+Test Accuracy of Raphael Kirchner : 81 %
+Test Accuracy of Pablo Picasso :  4 %
+Test Accuracy of Rembrandt : 44 %
+Test Accuracy of Andy Warhol :  0 %
+Final Summary:   loss: 2.025
+Train Accuracy of the network: 30 %
+Train Accuracy of Pierre Auguste Renoir : 44 %
+Train Accuracy of Paul Cezanne : 30 %
+Train Accuracy of Katsushika Hokusai : 29 %
+Train Accuracy of Leonardo Da Vinci :  6 %
+Train Accuracy of Claude Monet : 33 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 74 %
+Train Accuracy of Pablo Picasso : 25 %
+Train Accuracy of Rembrandt : 36 %
+Train Accuracy of Andy Warhol :  9 %
+Test Accuracy of the network: 32 %
+Test Accuracy of Pierre Auguste Renoir : 45 %
+Test Accuracy of Paul Cezanne : 35 %
+Test Accuracy of Katsushika Hokusai : 26 %
+Test Accuracy of Leonardo Da Vinci :  7 %
+Test Accuracy of Claude Monet : 31 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 76 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 33 %
+Test Accuracy of Andy Warhol :  8 %
+Final Summary:   loss: 1.948
+Train Accuracy of the network: 33 %
+Train Accuracy of Pierre Auguste Renoir : 59 %
+Train Accuracy of Paul Cezanne : 29 %
+Train Accuracy of Katsushika Hokusai : 46 %
+Train Accuracy of Leonardo Da Vinci : 41 %
+Train Accuracy of Claude Monet : 37 %
+Train Accuracy of Vincent Van Gogh : 14 %
+Train Accuracy of Raphael Kirchner : 54 %
+Train Accuracy of Pablo Picasso : 13 %
+Train Accuracy of Rembrandt : 36 %
+Train Accuracy of Andy Warhol : 12 %
+Test Accuracy of the network: 30 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 31 %
+Test Accuracy of Katsushika Hokusai : 45 %
+Test Accuracy of Leonardo Da Vinci : 31 %
+Test Accuracy of Claude Monet : 30 %
+Test Accuracy of Vincent Van Gogh :  9 %
+Test Accuracy of Raphael Kirchner : 56 %
+Test Accuracy of Pablo Picasso : 13 %
+Test Accuracy of Rembrandt : 33 %
+Test Accuracy of Andy Warhol : 11 %
+Final Summary:   loss: 1.911
+Train Accuracy of the network: 31 %
+Train Accuracy of Pierre Auguste Renoir : 30 %
+Train Accuracy of Paul Cezanne : 20 %
+Train Accuracy of Katsushika Hokusai : 63 %
+Train Accuracy of Leonardo Da Vinci : 10 %
+Train Accuracy of Claude Monet : 22 %
+Train Accuracy of Vincent Van Gogh : 12 %
+Train Accuracy of Raphael Kirchner : 56 %
+Train Accuracy of Pablo Picasso : 22 %
+Train Accuracy of Rembrandt : 38 %
+Train Accuracy of Andy Warhol : 48 %
+Test Accuracy of the network: 27 %
+Test Accuracy of Pierre Auguste Renoir : 33 %
+Test Accuracy of Paul Cezanne : 28 %
+Test Accuracy of Katsushika Hokusai : 83 %
+Test Accuracy of Leonardo Da Vinci : 14 %
+Test Accuracy of Claude Monet : 20 %
+Test Accuracy of Vincent Van Gogh : 11 %
+Test Accuracy of Raphael Kirchner : 53 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 35 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.888
+Train Accuracy of the network: 36 %
+Train Accuracy of Pierre Auguste Renoir : 46 %
+Train Accuracy of Paul Cezanne : 23 %
+Train Accuracy of Katsushika Hokusai : 47 %
+Train Accuracy of Leonardo Da Vinci : 50 %
+Train Accuracy of Claude Monet : 45 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 47 %
+Train Accuracy of Pablo Picasso : 15 %
+Train Accuracy of Rembrandt : 53 %
+Train Accuracy of Andy Warhol : 19 %
+Test Accuracy of the network: 34 %
+Test Accuracy of Pierre Auguste Renoir : 50 %
+Test Accuracy of Paul Cezanne : 25 %
+Test Accuracy of Katsushika Hokusai : 39 %
+Test Accuracy of Leonardo Da Vinci : 46 %
+Test Accuracy of Claude Monet : 43 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 45 %
+Test Accuracy of Pablo Picasso : 16 %
+Test Accuracy of Rembrandt : 50 %
+Test Accuracy of Andy Warhol : 15 %
+Final Summary:   loss: 1.864
+Train Accuracy of the network: 36 %
+Train Accuracy of Pierre Auguste Renoir : 64 %
+Train Accuracy of Paul Cezanne : 45 %
+Train Accuracy of Katsushika Hokusai : 45 %
+Train Accuracy of Leonardo Da Vinci : 56 %
+Train Accuracy of Claude Monet : 39 %
+Train Accuracy of Vincent Van Gogh : 21 %
+Train Accuracy of Raphael Kirchner : 35 %
+Train Accuracy of Pablo Picasso :  6 %
+Train Accuracy of Rembrandt : 30 %
+Train Accuracy of Andy Warhol : 17 %
+Test Accuracy of the network: 33 %
+Test Accuracy of Pierre Auguste Renoir : 63 %
+Test Accuracy of Paul Cezanne : 51 %
+Test Accuracy of Katsushika Hokusai : 37 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 44 %
+Test Accuracy of Vincent Van Gogh : 17 %
+Test Accuracy of Raphael Kirchner : 34 %
+Test Accuracy of Pablo Picasso :  5 %
+Test Accuracy of Rembrandt : 27 %
+Test Accuracy of Andy Warhol : 11 %
+Final Summary:   loss: 1.811
+Train Accuracy of the network: 38 %
+Train Accuracy of Pierre Auguste Renoir : 50 %
+Train Accuracy of Paul Cezanne : 54 %
+Train Accuracy of Katsushika Hokusai : 46 %
+Train Accuracy of Leonardo Da Vinci : 42 %
+Train Accuracy of Claude Monet : 46 %
+Train Accuracy of Vincent Van Gogh : 19 %
+Train Accuracy of Raphael Kirchner : 55 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 31 %
+Train Accuracy of Andy Warhol : 38 %
+Test Accuracy of the network: 33 %
+Test Accuracy of Pierre Auguste Renoir : 50 %
+Test Accuracy of Paul Cezanne : 52 %
+Test Accuracy of Katsushika Hokusai : 41 %
+Test Accuracy of Leonardo Da Vinci : 31 %
+Test Accuracy of Claude Monet : 45 %
+Test Accuracy of Vincent Van Gogh : 16 %
+Test Accuracy of Raphael Kirchner : 52 %
+Test Accuracy of Pablo Picasso : 15 %
+Test Accuracy of Rembrandt : 29 %
+Test Accuracy of Andy Warhol : 22 %
+Final Summary:   loss: 1.809
+Train Accuracy of the network: 39 %
+Train Accuracy of Pierre Auguste Renoir : 51 %
+Train Accuracy of Paul Cezanne : 43 %
+Train Accuracy of Katsushika Hokusai : 46 %
+Train Accuracy of Leonardo Da Vinci : 40 %
+Train Accuracy of Claude Monet : 50 %
+Train Accuracy of Vincent Van Gogh : 25 %
+Train Accuracy of Raphael Kirchner : 55 %
+Train Accuracy of Pablo Picasso : 15 %
+Train Accuracy of Rembrandt : 43 %
+Train Accuracy of Andy Warhol : 27 %
+Test Accuracy of the network: 36 %
+Test Accuracy of Pierre Auguste Renoir : 52 %
+Test Accuracy of Paul Cezanne : 48 %
+Test Accuracy of Katsushika Hokusai : 37 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 47 %
+Test Accuracy of Vincent Van Gogh : 22 %
+Test Accuracy of Raphael Kirchner : 54 %
+Test Accuracy of Pablo Picasso : 14 %
+Test Accuracy of Rembrandt : 43 %
+Test Accuracy of Andy Warhol : 20 %
+Final Summary:   loss: 1.782
+Train Accuracy of the network: 39 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 26 %
+Train Accuracy of Katsushika Hokusai : 45 %
+Train Accuracy of Leonardo Da Vinci : 49 %
+Train Accuracy of Claude Monet : 63 %
+Train Accuracy of Vincent Van Gogh : 11 %
+Train Accuracy of Raphael Kirchner : 40 %
+Train Accuracy of Pablo Picasso : 18 %
+Train Accuracy of Rembrandt : 45 %
+Train Accuracy of Andy Warhol : 29 %
+Test Accuracy of the network: 36 %
+Test Accuracy of Pierre Auguste Renoir : 60 %
+Test Accuracy of Paul Cezanne : 31 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 62 %
+Test Accuracy of Vincent Van Gogh :  9 %
+Test Accuracy of Raphael Kirchner : 35 %
+Test Accuracy of Pablo Picasso : 16 %
+Test Accuracy of Rembrandt : 46 %
+Test Accuracy of Andy Warhol : 15 %
+Final Summary:   loss: 1.755
+Train Accuracy of the network: 38 %
+Train Accuracy of Pierre Auguste Renoir : 62 %
+Train Accuracy of Paul Cezanne : 40 %
+Train Accuracy of Katsushika Hokusai : 51 %
+Train Accuracy of Leonardo Da Vinci : 39 %
+Train Accuracy of Claude Monet : 50 %
+Train Accuracy of Vincent Van Gogh : 16 %
+Train Accuracy of Raphael Kirchner : 58 %
+Train Accuracy of Pablo Picasso :  4 %
+Train Accuracy of Rembrandt : 42 %
+Train Accuracy of Andy Warhol : 32 %
+Test Accuracy of the network: 35 %
+Test Accuracy of Pierre Auguste Renoir : 65 %
+Test Accuracy of Paul Cezanne : 40 %
+Test Accuracy of Katsushika Hokusai : 41 %
+Test Accuracy of Leonardo Da Vinci : 36 %
+Test Accuracy of Claude Monet : 50 %
+Test Accuracy of Vincent Van Gogh : 13 %
+Test Accuracy of Raphael Kirchner : 56 %
+Test Accuracy of Pablo Picasso :  4 %
+Test Accuracy of Rembrandt : 40 %
+Test Accuracy of Andy Warhol : 17 %
+Final Summary:   loss: 1.745
+Train Accuracy of the network: 41 %
+Train Accuracy of Pierre Auguste Renoir : 54 %
+Train Accuracy of Paul Cezanne : 39 %
+Train Accuracy of Katsushika Hokusai : 49 %
+Train Accuracy of Leonardo Da Vinci : 49 %
+Train Accuracy of Claude Monet : 48 %
+Train Accuracy of Vincent Van Gogh : 21 %
+Train Accuracy of Raphael Kirchner : 47 %
+Train Accuracy of Pablo Picasso : 14 %
+Train Accuracy of Rembrandt : 36 %
+Train Accuracy of Andy Warhol : 57 %
+Test Accuracy of the network: 36 %
+Test Accuracy of Pierre Auguste Renoir : 55 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 48 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 14 %
+Test Accuracy of Rembrandt : 38 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.745
+Train Accuracy of the network: 41 %
+Train Accuracy of Pierre Auguste Renoir : 59 %
+Train Accuracy of Paul Cezanne : 42 %
+Train Accuracy of Katsushika Hokusai : 55 %
+Train Accuracy of Leonardo Da Vinci : 34 %
+Train Accuracy of Claude Monet : 49 %
+Train Accuracy of Vincent Van Gogh : 12 %
+Train Accuracy of Raphael Kirchner : 54 %
+Train Accuracy of Pablo Picasso :  3 %
+Train Accuracy of Rembrandt : 47 %
+Train Accuracy of Andy Warhol : 54 %
+Test Accuracy of the network: 34 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 46 %
+Test Accuracy of Katsushika Hokusai : 41 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 50 %
+Test Accuracy of Vincent Van Gogh : 10 %
+Test Accuracy of Raphael Kirchner : 58 %
+Test Accuracy of Pablo Picasso :  1 %
+Test Accuracy of Rembrandt : 50 %
+Test Accuracy of Andy Warhol : 31 %
+Final Summary:   loss: 1.705
+Train Accuracy of the network: 43 %
+Train Accuracy of Pierre Auguste Renoir : 50 %
+Train Accuracy of Paul Cezanne : 42 %
+Train Accuracy of Katsushika Hokusai : 53 %
+Train Accuracy of Leonardo Da Vinci : 46 %
+Train Accuracy of Claude Monet : 44 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 49 %
+Train Accuracy of Pablo Picasso : 13 %
+Train Accuracy of Rembrandt : 40 %
+Train Accuracy of Andy Warhol : 49 %
+Test Accuracy of the network: 36 %
+Test Accuracy of Pierre Auguste Renoir : 52 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 52 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 44 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 56 %
+Test Accuracy of Pablo Picasso : 17 %
+Test Accuracy of Rembrandt : 39 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.705
+Train Accuracy of the network: 43 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 24 %
+Train Accuracy of Katsushika Hokusai : 50 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 52 %
+Train Accuracy of Vincent Van Gogh : 22 %
+Train Accuracy of Raphael Kirchner : 44 %
+Train Accuracy of Pablo Picasso : 31 %
+Train Accuracy of Rembrandt : 55 %
+Train Accuracy of Andy Warhol : 44 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 28 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 53 %
+Test Accuracy of Claude Monet : 48 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 47 %
+Test Accuracy of Pablo Picasso : 33 %
+Test Accuracy of Rembrandt : 52 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.700
+Train Accuracy of the network: 43 %
+Train Accuracy of Pierre Auguste Renoir : 53 %
+Train Accuracy of Paul Cezanne : 31 %
+Train Accuracy of Katsushika Hokusai : 59 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 63 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 45 %
+Train Accuracy of Pablo Picasso : 12 %
+Train Accuracy of Rembrandt : 46 %
+Train Accuracy of Andy Warhol : 42 %
+Test Accuracy of the network: 37 %
+Test Accuracy of Pierre Auguste Renoir : 54 %
+Test Accuracy of Paul Cezanne : 35 %
+Test Accuracy of Katsushika Hokusai : 54 %
+Test Accuracy of Leonardo Da Vinci : 53 %
+Test Accuracy of Claude Monet : 62 %
+Test Accuracy of Vincent Van Gogh : 17 %
+Test Accuracy of Raphael Kirchner : 41 %
+Test Accuracy of Pablo Picasso : 10 %
+Test Accuracy of Rembrandt : 47 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.691
+Train Accuracy of the network: 44 %
+Train Accuracy of Pierre Auguste Renoir : 53 %
+Train Accuracy of Paul Cezanne : 41 %
+Train Accuracy of Katsushika Hokusai : 62 %
+Train Accuracy of Leonardo Da Vinci : 48 %
+Train Accuracy of Claude Monet : 50 %
+Train Accuracy of Vincent Van Gogh : 23 %
+Train Accuracy of Raphael Kirchner : 48 %
+Train Accuracy of Pablo Picasso : 20 %
+Train Accuracy of Rembrandt : 49 %
+Train Accuracy of Andy Warhol : 46 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 52 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 67 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 48 %
+Test Accuracy of Vincent Van Gogh : 23 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 18 %
+Test Accuracy of Rembrandt : 47 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.664
+Train Accuracy of the network: 44 %
+Train Accuracy of Pierre Auguste Renoir : 54 %
+Train Accuracy of Paul Cezanne : 39 %
+Train Accuracy of Katsushika Hokusai : 59 %
+Train Accuracy of Leonardo Da Vinci : 45 %
+Train Accuracy of Claude Monet : 49 %
+Train Accuracy of Vincent Van Gogh : 22 %
+Train Accuracy of Raphael Kirchner : 58 %
+Train Accuracy of Pablo Picasso : 12 %
+Train Accuracy of Rembrandt : 53 %
+Train Accuracy of Andy Warhol : 45 %
+Test Accuracy of the network: 38 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 48 %
+Test Accuracy of Katsushika Hokusai : 47 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 47 %
+Test Accuracy of Vincent Van Gogh : 20 %
+Test Accuracy of Raphael Kirchner : 57 %
+Test Accuracy of Pablo Picasso : 13 %
+Test Accuracy of Rembrandt : 49 %
+Test Accuracy of Andy Warhol : 22 %
+Final Summary:   loss: 1.640
+Train Accuracy of the network: 45 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 31 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 40 %
+Train Accuracy of Claude Monet : 55 %
+Train Accuracy of Vincent Van Gogh : 11 %
+Train Accuracy of Raphael Kirchner : 53 %
+Train Accuracy of Pablo Picasso : 24 %
+Train Accuracy of Rembrandt : 49 %
+Train Accuracy of Andy Warhol : 60 %
+Test Accuracy of the network: 38 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 41 %
+Test Accuracy of Katsushika Hokusai : 54 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 50 %
+Test Accuracy of Vincent Van Gogh :  9 %
+Test Accuracy of Raphael Kirchner : 57 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 49 %
+Test Accuracy of Andy Warhol : 37 %
+Final Summary:   loss: 1.658
+Train Accuracy of the network: 43 %
+Train Accuracy of Pierre Auguste Renoir : 61 %
+Train Accuracy of Paul Cezanne : 52 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 53 %
+Train Accuracy of Claude Monet : 49 %
+Train Accuracy of Vincent Van Gogh : 15 %
+Train Accuracy of Raphael Kirchner : 47 %
+Train Accuracy of Pablo Picasso : 16 %
+Train Accuracy of Rembrandt : 49 %
+Train Accuracy of Andy Warhol : 48 %
+Test Accuracy of the network: 38 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 53 %
+Test Accuracy of Katsushika Hokusai : 45 %
+Test Accuracy of Leonardo Da Vinci : 53 %
+Test Accuracy of Claude Monet : 49 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 16 %
+Test Accuracy of Rembrandt : 48 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.644
+Train Accuracy of the network: 46 %
+Train Accuracy of Pierre Auguste Renoir : 56 %
+Train Accuracy of Paul Cezanne : 48 %
+Train Accuracy of Katsushika Hokusai : 54 %
+Train Accuracy of Leonardo Da Vinci : 48 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 53 %
+Train Accuracy of Pablo Picasso : 25 %
+Train Accuracy of Rembrandt : 53 %
+Train Accuracy of Andy Warhol : 48 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 52 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 52 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 56 %
+Test Accuracy of Pablo Picasso : 22 %
+Test Accuracy of Rembrandt : 46 %
+Test Accuracy of Andy Warhol : 31 %
+Final Summary:   loss: 1.603
+Train Accuracy of the network: 44 %
+Train Accuracy of Pierre Auguste Renoir : 63 %
+Train Accuracy of Paul Cezanne : 41 %
+Train Accuracy of Katsushika Hokusai : 58 %
+Train Accuracy of Leonardo Da Vinci : 33 %
+Train Accuracy of Claude Monet : 55 %
+Train Accuracy of Vincent Van Gogh : 15 %
+Train Accuracy of Raphael Kirchner : 62 %
+Train Accuracy of Pablo Picasso : 20 %
+Train Accuracy of Rembrandt : 57 %
+Train Accuracy of Andy Warhol : 52 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 42 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 55 %
+Test Accuracy of Vincent Van Gogh : 11 %
+Test Accuracy of Raphael Kirchner : 61 %
+Test Accuracy of Pablo Picasso : 20 %
+Test Accuracy of Rembrandt : 55 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.620
+Train Accuracy of the network: 46 %
+Train Accuracy of Pierre Auguste Renoir : 54 %
+Train Accuracy of Paul Cezanne : 43 %
+Train Accuracy of Katsushika Hokusai : 58 %
+Train Accuracy of Leonardo Da Vinci : 54 %
+Train Accuracy of Claude Monet : 50 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 57 %
+Train Accuracy of Pablo Picasso : 26 %
+Train Accuracy of Rembrandt : 50 %
+Train Accuracy of Andy Warhol : 54 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 45 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 16 %
+Test Accuracy of Raphael Kirchner : 55 %
+Test Accuracy of Pablo Picasso : 28 %
+Test Accuracy of Rembrandt : 44 %
+Test Accuracy of Andy Warhol : 33 %
+Final Summary:   loss: 1.612
+Train Accuracy of the network: 46 %
+Train Accuracy of Pierre Auguste Renoir : 60 %
+Train Accuracy of Paul Cezanne : 45 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 54 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 19 %
+Train Accuracy of Raphael Kirchner : 51 %
+Train Accuracy of Pablo Picasso : 13 %
+Train Accuracy of Rembrandt : 53 %
+Train Accuracy of Andy Warhol : 53 %
+Test Accuracy of the network: 38 %
+Test Accuracy of Pierre Auguste Renoir : 60 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 14 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 11 %
+Test Accuracy of Rembrandt : 53 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.609
+Train Accuracy of the network: 46 %
+Train Accuracy of Pierre Auguste Renoir : 64 %
+Train Accuracy of Paul Cezanne : 50 %
+Train Accuracy of Katsushika Hokusai : 47 %
+Train Accuracy of Leonardo Da Vinci : 36 %
+Train Accuracy of Claude Monet : 52 %
+Train Accuracy of Vincent Van Gogh : 12 %
+Train Accuracy of Raphael Kirchner : 69 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 49 %
+Train Accuracy of Andy Warhol : 40 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 62 %
+Test Accuracy of Paul Cezanne : 55 %
+Test Accuracy of Katsushika Hokusai : 39 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 10 %
+Test Accuracy of Raphael Kirchner : 65 %
+Test Accuracy of Pablo Picasso : 20 %
+Test Accuracy of Rembrandt : 48 %
+Test Accuracy of Andy Warhol : 20 %
+Final Summary:   loss: 1.612
+Train Accuracy of the network: 45 %
+Train Accuracy of Pierre Auguste Renoir : 63 %
+Train Accuracy of Paul Cezanne : 33 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 57 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 47 %
+Train Accuracy of Pablo Picasso : 17 %
+Train Accuracy of Rembrandt : 63 %
+Train Accuracy of Andy Warhol : 42 %
+Test Accuracy of the network: 40 %
+Test Accuracy of Pierre Auguste Renoir : 62 %
+Test Accuracy of Paul Cezanne : 41 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 58 %
+Test Accuracy of Claude Monet : 54 %
+Test Accuracy of Vincent Van Gogh : 14 %
+Test Accuracy of Raphael Kirchner : 47 %
+Test Accuracy of Pablo Picasso : 19 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 24 %
+Final Summary:   loss: 1.582
+Train Accuracy of the network: 47 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 34 %
+Train Accuracy of Katsushika Hokusai : 54 %
+Train Accuracy of Leonardo Da Vinci : 56 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 23 %
+Train Accuracy of Raphael Kirchner : 48 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 60 %
+Train Accuracy of Andy Warhol : 60 %
+Test Accuracy of the network: 40 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 36 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 56 %
+Test Accuracy of Claude Monet : 55 %
+Test Accuracy of Vincent Van Gogh : 18 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 22 %
+Test Accuracy of Rembrandt : 52 %
+Test Accuracy of Andy Warhol : 33 %
+Final Summary:   loss: 1.601
+Train Accuracy of the network: 48 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 31 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 58 %
+Train Accuracy of Claude Monet : 58 %
+Train Accuracy of Vincent Van Gogh : 25 %
+Train Accuracy of Raphael Kirchner : 47 %
+Train Accuracy of Pablo Picasso : 15 %
+Train Accuracy of Rembrandt : 58 %
+Train Accuracy of Andy Warhol : 66 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 35 %
+Test Accuracy of Katsushika Hokusai : 47 %
+Test Accuracy of Leonardo Da Vinci : 53 %
+Test Accuracy of Claude Monet : 55 %
+Test Accuracy of Vincent Van Gogh : 24 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 15 %
+Test Accuracy of Rembrandt : 59 %
+Test Accuracy of Andy Warhol : 40 %
+Final Summary:   loss: 1.577
+Train Accuracy of the network: 47 %
+Train Accuracy of Pierre Auguste Renoir : 64 %
+Train Accuracy of Paul Cezanne : 39 %
+Train Accuracy of Katsushika Hokusai : 61 %
+Train Accuracy of Leonardo Da Vinci : 48 %
+Train Accuracy of Claude Monet : 59 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 52 %
+Train Accuracy of Pablo Picasso : 11 %
+Train Accuracy of Rembrandt : 63 %
+Train Accuracy of Andy Warhol : 54 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 46 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 55 %
+Test Accuracy of Vincent Van Gogh : 13 %
+Test Accuracy of Raphael Kirchner : 55 %
+Test Accuracy of Pablo Picasso : 12 %
+Test Accuracy of Rembrandt : 66 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.586
+Train Accuracy of the network: 48 %
+Train Accuracy of Pierre Auguste Renoir : 60 %
+Train Accuracy of Paul Cezanne : 45 %
+Train Accuracy of Katsushika Hokusai : 65 %
+Train Accuracy of Leonardo Da Vinci : 48 %
+Train Accuracy of Claude Monet : 50 %
+Train Accuracy of Vincent Van Gogh : 29 %
+Train Accuracy of Raphael Kirchner : 52 %
+Train Accuracy of Pablo Picasso : 18 %
+Train Accuracy of Rembrandt : 54 %
+Train Accuracy of Andy Warhol : 57 %
+Test Accuracy of the network: 40 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 48 %
+Test Accuracy of Katsushika Hokusai : 66 %
+Test Accuracy of Leonardo Da Vinci : 39 %
+Test Accuracy of Claude Monet : 46 %
+Test Accuracy of Vincent Van Gogh : 25 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 20 %
+Test Accuracy of Rembrandt : 49 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.576
+Train Accuracy of the network: 48 %
+Train Accuracy of Pierre Auguste Renoir : 60 %
+Train Accuracy of Paul Cezanne : 40 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 55 %
+Train Accuracy of Claude Monet : 62 %
+Train Accuracy of Vincent Van Gogh : 24 %
+Train Accuracy of Raphael Kirchner : 51 %
+Train Accuracy of Pablo Picasso : 27 %
+Train Accuracy of Rembrandt : 56 %
+Train Accuracy of Andy Warhol : 52 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 45 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 57 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 24 %
+Test Accuracy of Rembrandt : 58 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.568
+Train Accuracy of the network: 49 %
+Train Accuracy of Pierre Auguste Renoir : 66 %
+Train Accuracy of Paul Cezanne : 44 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 55 %
+Train Accuracy of Claude Monet : 57 %
+Train Accuracy of Vincent Van Gogh : 23 %
+Train Accuracy of Raphael Kirchner : 53 %
+Train Accuracy of Pablo Picasso : 19 %
+Train Accuracy of Rembrandt : 57 %
+Train Accuracy of Andy Warhol : 57 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 63 %
+Test Accuracy of Paul Cezanne : 51 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 18 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 20 %
+Test Accuracy of Rembrandt : 60 %
+Test Accuracy of Andy Warhol : 31 %
+Final Summary:   loss: 1.557
+Train Accuracy of the network: 49 %
+Train Accuracy of Pierre Auguste Renoir : 60 %
+Train Accuracy of Paul Cezanne : 43 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 61 %
+Train Accuracy of Vincent Van Gogh : 22 %
+Train Accuracy of Raphael Kirchner : 49 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 62 %
+Train Accuracy of Andy Warhol : 59 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 51 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 52 %
+Test Accuracy of Vincent Van Gogh : 20 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 22 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 33 %
+Final Summary:   loss: 1.537
+Train Accuracy of the network: 48 %
+Train Accuracy of Pierre Auguste Renoir : 55 %
+Train Accuracy of Paul Cezanne : 50 %
+Train Accuracy of Katsushika Hokusai : 59 %
+Train Accuracy of Leonardo Da Vinci : 55 %
+Train Accuracy of Claude Monet : 59 %
+Train Accuracy of Vincent Van Gogh : 30 %
+Train Accuracy of Raphael Kirchner : 52 %
+Train Accuracy of Pablo Picasso : 20 %
+Train Accuracy of Rembrandt : 53 %
+Train Accuracy of Andy Warhol : 52 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 50 %
+Test Accuracy of Katsushika Hokusai : 54 %
+Test Accuracy of Leonardo Da Vinci : 48 %
+Test Accuracy of Claude Monet : 52 %
+Test Accuracy of Vincent Van Gogh : 25 %
+Test Accuracy of Raphael Kirchner : 53 %
+Test Accuracy of Pablo Picasso : 19 %
+Test Accuracy of Rembrandt : 50 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.555
+Train Accuracy of the network: 49 %
+Train Accuracy of Pierre Auguste Renoir : 58 %
+Train Accuracy of Paul Cezanne : 39 %
+Train Accuracy of Katsushika Hokusai : 59 %
+Train Accuracy of Leonardo Da Vinci : 54 %
+Train Accuracy of Claude Monet : 57 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 52 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 62 %
+Train Accuracy of Andy Warhol : 64 %
+Test Accuracy of the network: 40 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 56 %
+Test Accuracy of Leonardo Da Vinci : 48 %
+Test Accuracy of Claude Monet : 54 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 18 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 35 %
+Final Summary:   loss: 1.520
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 41 %
+Train Accuracy of Katsushika Hokusai : 66 %
+Train Accuracy of Leonardo Da Vinci : 54 %
+Train Accuracy of Claude Monet : 58 %
+Train Accuracy of Vincent Van Gogh : 26 %
+Train Accuracy of Raphael Kirchner : 50 %
+Train Accuracy of Pablo Picasso : 16 %
+Train Accuracy of Rembrandt : 61 %
+Train Accuracy of Andy Warhol : 59 %
+Test Accuracy of the network: 40 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 43 %
+Test Accuracy of Katsushika Hokusai : 56 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 54 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 47 %
+Test Accuracy of Pablo Picasso : 16 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 37 %
+Final Summary:   loss: 1.547
+Train Accuracy of the network: 48 %
+Train Accuracy of Pierre Auguste Renoir : 58 %
+Train Accuracy of Paul Cezanne : 56 %
+Train Accuracy of Katsushika Hokusai : 61 %
+Train Accuracy of Leonardo Da Vinci : 36 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 15 %
+Train Accuracy of Raphael Kirchner : 68 %
+Train Accuracy of Pablo Picasso : 22 %
+Train Accuracy of Rembrandt : 62 %
+Train Accuracy of Andy Warhol : 52 %
+Test Accuracy of the network: 39 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 58 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 12 %
+Test Accuracy of Raphael Kirchner : 58 %
+Test Accuracy of Pablo Picasso : 20 %
+Test Accuracy of Rembrandt : 59 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.522
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 61 %
+Train Accuracy of Paul Cezanne : 46 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 51 %
+Train Accuracy of Claude Monet : 59 %
+Train Accuracy of Vincent Van Gogh : 16 %
+Train Accuracy of Raphael Kirchner : 60 %
+Train Accuracy of Pablo Picasso : 25 %
+Train Accuracy of Rembrandt : 61 %
+Train Accuracy of Andy Warhol : 53 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 52 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 52 %
+Test Accuracy of Vincent Van Gogh : 12 %
+Test Accuracy of Raphael Kirchner : 56 %
+Test Accuracy of Pablo Picasso : 27 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.524
+Train Accuracy of the network: 49 %
+Train Accuracy of Pierre Auguste Renoir : 56 %
+Train Accuracy of Paul Cezanne : 44 %
+Train Accuracy of Katsushika Hokusai : 59 %
+Train Accuracy of Leonardo Da Vinci : 40 %
+Train Accuracy of Claude Monet : 58 %
+Train Accuracy of Vincent Van Gogh : 21 %
+Train Accuracy of Raphael Kirchner : 65 %
+Train Accuracy of Pablo Picasso : 21 %
+Train Accuracy of Rembrandt : 65 %
+Train Accuracy of Andy Warhol : 54 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 51 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 34 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 58 %
+Test Accuracy of Pablo Picasso : 22 %
+Test Accuracy of Rembrandt : 63 %
+Test Accuracy of Andy Warhol : 35 %
+Final Summary:   loss: 1.524
+Train Accuracy of the network: 51 %
+Train Accuracy of Pierre Auguste Renoir : 59 %
+Train Accuracy of Paul Cezanne : 48 %
+Train Accuracy of Katsushika Hokusai : 62 %
+Train Accuracy of Leonardo Da Vinci : 56 %
+Train Accuracy of Claude Monet : 54 %
+Train Accuracy of Vincent Van Gogh : 24 %
+Train Accuracy of Raphael Kirchner : 59 %
+Train Accuracy of Pablo Picasso : 27 %
+Train Accuracy of Rembrandt : 64 %
+Train Accuracy of Andy Warhol : 54 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 52 %
+Test Accuracy of Katsushika Hokusai : 47 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 48 %
+Test Accuracy of Vincent Van Gogh : 21 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 27 %
+Test Accuracy of Rembrandt : 59 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.520
+Train Accuracy of the network: 49 %
+Train Accuracy of Pierre Auguste Renoir : 57 %
+Train Accuracy of Paul Cezanne : 47 %
+Train Accuracy of Katsushika Hokusai : 55 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 53 %
+Train Accuracy of Vincent Van Gogh : 23 %
+Train Accuracy of Raphael Kirchner : 62 %
+Train Accuracy of Pablo Picasso : 28 %
+Train Accuracy of Rembrandt : 62 %
+Train Accuracy of Andy Warhol : 53 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 56 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 48 %
+Test Accuracy of Vincent Van Gogh : 19 %
+Test Accuracy of Raphael Kirchner : 57 %
+Test Accuracy of Pablo Picasso : 28 %
+Test Accuracy of Rembrandt : 60 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.506
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 62 %
+Train Accuracy of Paul Cezanne : 45 %
+Train Accuracy of Katsushika Hokusai : 56 %
+Train Accuracy of Leonardo Da Vinci : 52 %
+Train Accuracy of Claude Monet : 57 %
+Train Accuracy of Vincent Van Gogh : 31 %
+Train Accuracy of Raphael Kirchner : 61 %
+Train Accuracy of Pablo Picasso : 36 %
+Train Accuracy of Rembrandt : 61 %
+Train Accuracy of Andy Warhol : 55 %
+Test Accuracy of the network: 43 %
+Test Accuracy of Pierre Auguste Renoir : 62 %
+Test Accuracy of Paul Cezanne : 47 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 20 %
+Test Accuracy of Raphael Kirchner : 54 %
+Test Accuracy of Pablo Picasso : 34 %
+Test Accuracy of Rembrandt : 60 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.490
+Train Accuracy of the network: 51 %
+Train Accuracy of Pierre Auguste Renoir : 58 %
+Train Accuracy of Paul Cezanne : 51 %
+Train Accuracy of Katsushika Hokusai : 60 %
+Train Accuracy of Leonardo Da Vinci : 58 %
+Train Accuracy of Claude Monet : 54 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 55 %
+Train Accuracy of Pablo Picasso : 32 %
+Train Accuracy of Rembrandt : 64 %
+Train Accuracy of Andy Warhol : 55 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 57 %
+Test Accuracy of Paul Cezanne : 54 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 33 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.517
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 54 %
+Train Accuracy of Paul Cezanne : 53 %
+Train Accuracy of Katsushika Hokusai : 63 %
+Train Accuracy of Leonardo Da Vinci : 56 %
+Train Accuracy of Claude Monet : 57 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 57 %
+Train Accuracy of Pablo Picasso : 24 %
+Train Accuracy of Rembrandt : 60 %
+Train Accuracy of Andy Warhol : 64 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 56 %
+Test Accuracy of Paul Cezanne : 58 %
+Test Accuracy of Katsushika Hokusai : 54 %
+Test Accuracy of Leonardo Da Vinci : 41 %
+Test Accuracy of Claude Monet : 52 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 55 %
+Test Accuracy of Pablo Picasso : 21 %
+Test Accuracy of Rembrandt : 57 %
+Test Accuracy of Andy Warhol : 44 %
+Final Summary:   loss: 1.487
+Train Accuracy of the network: 51 %
+Train Accuracy of Pierre Auguste Renoir : 60 %
+Train Accuracy of Paul Cezanne : 45 %
+Train Accuracy of Katsushika Hokusai : 61 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 27 %
+Train Accuracy of Raphael Kirchner : 60 %
+Train Accuracy of Pablo Picasso : 26 %
+Train Accuracy of Rembrandt : 59 %
+Train Accuracy of Andy Warhol : 60 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 51 %
+Test Accuracy of Katsushika Hokusai : 47 %
+Test Accuracy of Leonardo Da Vinci : 46 %
+Test Accuracy of Claude Monet : 51 %
+Test Accuracy of Vincent Van Gogh : 23 %
+Test Accuracy of Raphael Kirchner : 54 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 59 %
+Test Accuracy of Andy Warhol : 33 %
+Final Summary:   loss: 1.500
+Train Accuracy of the network: 51 %
+Train Accuracy of Pierre Auguste Renoir : 59 %
+Train Accuracy of Paul Cezanne : 46 %
+Train Accuracy of Katsushika Hokusai : 61 %
+Train Accuracy of Leonardo Da Vinci : 50 %
+Train Accuracy of Claude Monet : 60 %
+Train Accuracy of Vincent Van Gogh : 18 %
+Train Accuracy of Raphael Kirchner : 58 %
+Train Accuracy of Pablo Picasso : 28 %
+Train Accuracy of Rembrandt : 64 %
+Train Accuracy of Andy Warhol : 61 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 58 %
+Test Accuracy of Paul Cezanne : 50 %
+Test Accuracy of Katsushika Hokusai : 54 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 56 %
+Test Accuracy of Vincent Van Gogh : 14 %
+Test Accuracy of Raphael Kirchner : 53 %
+Test Accuracy of Pablo Picasso : 26 %
+Test Accuracy of Rembrandt : 62 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.473
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 58 %
+Train Accuracy of Paul Cezanne : 52 %
+Train Accuracy of Katsushika Hokusai : 58 %
+Train Accuracy of Leonardo Da Vinci : 51 %
+Train Accuracy of Claude Monet : 58 %
+Train Accuracy of Vincent Van Gogh : 19 %
+Train Accuracy of Raphael Kirchner : 59 %
+Train Accuracy of Pablo Picasso : 29 %
+Train Accuracy of Rembrandt : 64 %
+Train Accuracy of Andy Warhol : 56 %
+Test Accuracy of the network: 41 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 53 %
+Test Accuracy of Katsushika Hokusai : 47 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 54 %
+Test Accuracy of Vincent Van Gogh : 15 %
+Test Accuracy of Raphael Kirchner : 57 %
+Test Accuracy of Pablo Picasso : 23 %
+Test Accuracy of Rembrandt : 61 %
+Test Accuracy of Andy Warhol : 28 %
+Final Summary:   loss: 1.503
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 56 %
+Train Accuracy of Paul Cezanne : 39 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 54 %
+Train Accuracy of Claude Monet : 62 %
+Train Accuracy of Vincent Van Gogh : 24 %
+Train Accuracy of Raphael Kirchner : 57 %
+Train Accuracy of Pablo Picasso : 26 %
+Train Accuracy of Rembrandt : 69 %
+Train Accuracy of Andy Warhol : 61 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 59 %
+Test Accuracy of Paul Cezanne : 46 %
+Test Accuracy of Katsushika Hokusai : 50 %
+Test Accuracy of Leonardo Da Vinci : 51 %
+Test Accuracy of Claude Monet : 55 %
+Test Accuracy of Vincent Van Gogh : 18 %
+Test Accuracy of Raphael Kirchner : 50 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 63 %
+Test Accuracy of Andy Warhol : 33 %
+Final Summary:   loss: 1.481
+Train Accuracy of the network: 50 %
+Train Accuracy of Pierre Auguste Renoir : 64 %
+Train Accuracy of Paul Cezanne : 53 %
+Train Accuracy of Katsushika Hokusai : 51 %
+Train Accuracy of Leonardo Da Vinci : 48 %
+Train Accuracy of Claude Monet : 56 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 64 %
+Train Accuracy of Pablo Picasso : 32 %
+Train Accuracy of Rembrandt : 67 %
+Train Accuracy of Andy Warhol : 46 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 60 %
+Test Accuracy of Paul Cezanne : 56 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 53 %
+Test Accuracy of Vincent Van Gogh : 13 %
+Test Accuracy of Raphael Kirchner : 59 %
+Test Accuracy of Pablo Picasso : 31 %
+Test Accuracy of Rembrandt : 64 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.480
+Train Accuracy of the network: 52 %
+Train Accuracy of Pierre Auguste Renoir : 62 %
+Train Accuracy of Paul Cezanne : 54 %
+Train Accuracy of Katsushika Hokusai : 57 %
+Train Accuracy of Leonardo Da Vinci : 57 %
+Train Accuracy of Claude Monet : 60 %
+Train Accuracy of Vincent Van Gogh : 22 %
+Train Accuracy of Raphael Kirchner : 59 %
+Train Accuracy of Pablo Picasso : 26 %
+Train Accuracy of Rembrandt : 61 %
+Train Accuracy of Andy Warhol : 55 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 60 %
+Test Accuracy of Paul Cezanne : 53 %
+Test Accuracy of Katsushika Hokusai : 49 %
+Test Accuracy of Leonardo Da Vinci : 43 %
+Test Accuracy of Claude Monet : 54 %
+Test Accuracy of Vincent Van Gogh : 16 %
+Test Accuracy of Raphael Kirchner : 55 %
+Test Accuracy of Pablo Picasso : 25 %
+Test Accuracy of Rembrandt : 58 %
+Test Accuracy of Andy Warhol : 26 %
+Final Summary:   loss: 1.465
+Train Accuracy of the network: 51 %
+Train Accuracy of Pierre Auguste Renoir : 63 %
+Train Accuracy of Paul Cezanne : 42 %
+Train Accuracy of Katsushika Hokusai : 60 %
+Train Accuracy of Leonardo Da Vinci : 53 %
+Train Accuracy of Claude Monet : 62 %
+Train Accuracy of Vincent Van Gogh : 20 %
+Train Accuracy of Raphael Kirchner : 55 %
+Train Accuracy of Pablo Picasso : 23 %
+Train Accuracy of Rembrandt : 64 %
+Train Accuracy of Andy Warhol : 62 %
+Test Accuracy of the network: 42 %
+Test Accuracy of Pierre Auguste Renoir : 61 %
+Test Accuracy of Paul Cezanne : 48 %
+Test Accuracy of Katsushika Hokusai : 43 %
+Test Accuracy of Leonardo Da Vinci : 53 %
+Test Accuracy of Claude Monet : 57 %
+Test Accuracy of Vincent Van Gogh : 17 %
+Test Accuracy of Raphael Kirchner : 51 %
+Test Accuracy of Pablo Picasso : 19 %
+Test Accuracy of Rembrandt : 63 %
+Test Accuracy of Andy Warhol : 31 %

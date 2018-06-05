@@ -6,7 +6,7 @@ import torch
 import os
 import pdb
 
-EPOCHS = 50
+EPOCHS = 10
 BATCH_SIZE = 128
 
 def train(net, dataloader, optimizer, criterion, epoch):
@@ -77,7 +77,7 @@ def test(net, dataloader, tag=''):
 
 def main():
     dataLoader = PaintingDataLoader('./data', BATCH_SIZE)
-    net = models.CNN()
+    net = models.Attention_56()
     print('The log is recorded in ')
     print(net.logFile.name)
 
